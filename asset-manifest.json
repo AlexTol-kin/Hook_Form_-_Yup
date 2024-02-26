@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hook_Form_-_Yup/static/css/main.b67ddfdd.css",
+    "main.js": "/Hook_Form_-_Yup/static/js/main.d3098d15.js",
+    "index.html": "/Hook_Form_-_Yup/index.html",
+    "main.b67ddfdd.css.map": "/Hook_Form_-_Yup/static/css/main.b67ddfdd.css.map",
+    "main.d3098d15.js.map": "/Hook_Form_-_Yup/static/js/main.d3098d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b67ddfdd.css",
+    "static/js/main.d3098d15.js"
+  ]
+}
