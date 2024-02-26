@@ -1,0 +1,62 @@
+.app {
+  border: 1px solid #777777;
+  margin: 50px auto;
+  padding: 20px;
+  width: 250px;
+  margin-top: 15%;
+  background: -moz-linear-gradient(19% 75% 90deg, #848484, #d6d6d6) repeat
+    scroll 0 0 transparent;
+  background: -webkit-gradient(
+    linear,
+    0% 0%,
+    0% 100%,
+    from(#848484),
+    to(#d6d6d6)
+  );
+  border-radius: 20px 20px 20px 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-box-shadow: 0px -5px 300px #404040;
+  -webkit-box-shadow: 0px -5px 300px #404040;
+  box-shadow: 0 -5px 300px #404040;
+}
+
+input {
+  background: none repeat scroll 0 0 #f6f8f6;
+  border-color: #e4e4e4 -moz-use-text-color -moz-use-text-color;
+  -webkit-box-shadow: 0px 0px 2px #000;
+  -moz-box-shadow: 0px 0px 2px #000;
+  box-shadow: 0 0 2px #000000;
+  border-style: solid none none;
+  border-width: 1px 0 0;
+  margin-top: 10px;
+  padding: 6px;
+  width: 230px;
+  font-size: 15px;
+}
+
+button {
+  background: #848484;
+  border-top: 1px solid #dedede;
+  color: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-shadow: 1px 1px #777777;
+  text-transform: uppercase;
+  width: 200px;
+}
+
+.login {
+  color: #bee3d0;
+}
+
+.seePassword {
+  width: 170px;
+}
+
+p {
+  margin: 0%;
+  color: rgb(167, 60, 60);
+  font-size: 15px;
+}
